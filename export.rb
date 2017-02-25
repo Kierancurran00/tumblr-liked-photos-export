@@ -7,7 +7,7 @@ username     = "kza000"
 image_dir    = ARGV[1] || "images"
 offset       = 0
 limit        = 20  # number of posts requested each time
-download_num = 500 # number of posts to download 
+download_num = 1000 # number of posts to download 
 
 class TumblrPhotoExport
 
